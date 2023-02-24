@@ -1,0 +1,25 @@
+<header>
+  <h1>Face Snap App</h1>
+  <nav>
+    <a routerLink="" routerLinkActive="active" [routerLinkActiveOptions]="{exact : true}">Home</a>
+
+    <a routerLink="facesnaps" routerLinkActive="active">FaceSnaps</a>
+  </nav>
+</header>
+
+<!--
+  Le routeur d'Angular vous met à disposition une directive pour créer ultra facilement des liens vers des routes
+  de vos applications, et cette directive s'appelle  routerLink. Elle est très facile à utiliser : on lui passe simplement
+  la chaîne de caractères qui correspond à la route vers laquelle on veut créer le lien.
+-->
+
+<!--
+  Avec ces deux liens, vous avez un menu de navigation dans votre header, et vous pouvez bien vous rendre compte de la vitesse
+  de changement de route !
+-->
+
+<!--
+  En fait, une route est considérée comme étant active lorsqu'elle-même ou l'un de ses enfants est la route sélectionnée.
+  Cependant, il existe une configuration qui permet de considérer uniquement la route exacte et non ses enfants.
+  Qui n'est autre chose que: [routerLinkActiveOptions]="{ exact: true }"
+-->
