@@ -3,3 +3,19 @@
 # Qu'est ce que angular?
   
   Angular est un framework de développement d’applications web, utilisé par des milliers d’entreprises, qui vous permettra de créer des applications dynamiques             complètes.
+
+# Qu'est ce que j'ai appris dans ce cour ?
+  
+  Ce cours a été mon premier pas dans l’apprentissage de ce framework complet et innovant, J'ai découvert :
+
+  - les briques de base d’une application Angular que sont les components,
+
+  - comment passerer des données aux components avec la liaison de données,
+
+  - comment réagir aux événements du template avec la liaison par événement,
+
+  - comment apporterer de la structure et de la forme aux components avec les directives et les pipes,
+
+  - comment implémenterer des services et du routing pour améliorer la structure d'une application
+
+Tout au long de ce cours, on a créé une application de A à Z afin de pratiquer les différentes techniques et de consolider nos nouvelles connaissances.
