@@ -10,7 +10,6 @@
   
   "ng serve"  exécute le serveur de développement.
 
-  La balise  "<app-root>"  correspond à AppComponent.
 
 # Qu'est ce que j'ai appris dans ce cour ?
   
