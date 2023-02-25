@@ -6,11 +6,11 @@
   Le framework Angular utilise le HTML, le SCSS et le TypeScript.
   Le TypeScript est un langage qui ajoute des syntaxes au JavaScript, notamment pour le typage strict.
   
-  Une nouvelle application Angular se crée avec  ng new
+  Une nouvelle application Angular se crée avec  "ng new" .
   
-  ng serve  exécute le serveur de développement.
+  "ng serve"  exécute le serveur de développement.
 
-  La balise  <app-root>  correspond à AppComponent.
+  La balise  "<app-root>"  correspond à AppComponent.
 
 # Qu'est ce que j'ai appris dans ce cour ?
   
