@@ -26,3 +26,17 @@
   - comment implémenter des services et du routing pour améliorer la structure d'une application.
 
 Tout au long de ce cours, on a créé une application de A à Z afin de pratiquer les différentes techniques et de consolider nos nouvelles connaissances.
+
+# Les avantages d'Angular ?
+
+  Comme vous le savez peut-être, il existe d'autres solutions pour le développement d'applications web sophistiquées comme React, Vue ou Svelte, par exemple. Au lieu     de faire une comparaison directe, voici une liste non exhaustive de raisons de choisir Angular :
+
+  . Angular est un framework complet – on peut créer des applications web complètes sans avoir besoin de librairies tierces supplémentaires. C'est notamment ce qui         différencie un framework d'une library.
+
+  . Les best practices (les bonnes pratiques) Angular sont extrêmement précises – les structures des applications Angular ont tendance à se ressembler fortement, donc     il est facile de passer d'un projet à un autre, et de s'assurer que son propre projet suit les meilleurs pratiques.
+
+  . Le framework a été conçu pour fonctionner avec le TypeScript – il est tout à fait possible d'utiliser le TypeScript pour React, Vue ou Svelte, mais Angular a été       conçu pour ce langage, donc son intégration est forcément plus profonde.
+
+  Les pratiques plus "strictes" et le TypeScript sont à l'origine de la réputation de difficulté qu'a Angular.
+
+  Il y a d'autres raisons encore, et il y a aussi, bien sûr, des avantages aux alternatives. Angular est souvent un très bon choix.
