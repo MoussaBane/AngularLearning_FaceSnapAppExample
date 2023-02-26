@@ -43,7 +43,7 @@ Tout au long de ce cours, on a créé une application de A à Z afin de pratique
   
   # Tester le projet ?
   
-    Veuillez cliquer sur le lien 🔗 suivant : http://localhost:4200/
+   Veuillez cliquer sur le lien 🔗 suivant : http://localhost:4200/
   
   # Comment acceder aux codes de mon premier projet Angular Face_Snap?
   
