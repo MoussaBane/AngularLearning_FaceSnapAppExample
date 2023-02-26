@@ -41,6 +41,10 @@ Tout au long de ce cours, on a créé une application de A à Z afin de pratique
 
   Il y a d'autres raisons encore, et il y a aussi, bien sûr, des avantages aux alternatives. Angular est souvent un très bon choix.
   
+  # Tester le projet ?
+  
+    Veuillez cliquer sur le lien 🔗 suivant : http://localhost:4200/
+  
   # Comment acceder aux codes de mon premier projet Angular Face_Snap?
   
    Dans le dossier snapface/src/app se trouve les differents components avec les models et services utilisés dans ce projet.
