@@ -21,8 +21,8 @@
 
   - comment réagir aux événements du template avec la liaison par événement,
 
-  - comment apporterer de la structure et de la forme aux components avec les directives et les pipes,
+  - comment apporter de la structure et de la forme aux components avec les directives et les pipes,
 
-  - comment implémenterer des services et du routing pour améliorer la structure d'une application.
+  - comment implémenter des services et du routing pour améliorer la structure d'une application.
 
 Tout au long de ce cours, on a créé une application de A à Z afin de pratiquer les différentes techniques et de consolider nos nouvelles connaissances.
