@@ -43,10 +43,10 @@ Tout au long de ce cours, on a créé une application de A à Z afin de pratique
   
   # Comment acceder aux codes de mon premier projet Angular Face_Snap?
   
-    Dans le dossier snapface/src/app se trouve les differents components avec les models et services utilisés dans ce projet.
+   Dans le dossier snapface/src/app se trouve les differents components avec les models et services utilisés dans ce projet.
     
-    ![image](https://user-images.githubusercontent.com/75726215/221439321-b4036050-fccf-47d3-b30d-3e6cb5833480.png)
+   ![image](https://user-images.githubusercontent.com/75726215/221439321-b4036050-fccf-47d3-b30d-3e6cb5833480.png)
 
-    ![image](https://user-images.githubusercontent.com/75726215/221439383-28fcc21f-ef5f-4986-807f-027039f340a7.png)
+   ![image](https://user-images.githubusercontent.com/75726215/221439383-28fcc21f-ef5f-4986-807f-027039f340a7.png)
 
     
