@@ -17,7 +17,7 @@
 
   - les briques de base d’une application Angular que sont les components,
 
-  - comment passerer des données aux components avec la liaison de données,
+  - comment passer des données aux components avec la liaison de données,
 
   - comment réagir aux événements du template avec la liaison par événement,
 
